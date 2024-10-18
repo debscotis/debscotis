@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Débora
-- 👀 I’m interested in Science, Literature, Books, Rainy Days and Chocolate cookies.
+- 👀 I’m interested in Science, Literature, Books, Rainy Days, Piano, Rock n' Roll.
 - 🌱 I’m currently learning Python, German, Piano
 - 💞️ I’m looking to collaborate on Science Projects and Data Science Projects.
 - 📫 How to reach me debora.cotis@alumni.usp.br
